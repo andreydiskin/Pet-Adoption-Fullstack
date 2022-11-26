@@ -1,0 +1,18 @@
+.con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.footer {
+  margin-top: 40px;
+  color: #1976d2;
+  border-top: 1px solid #1976d2;
+}
+
+@media only screen and (max-width: 400px) {
+  .mainNavBar {
+    font-size: 12px;
+  }
+}

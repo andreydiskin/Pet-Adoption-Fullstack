@@ -1,0 +1,22 @@
+.LoginformCon {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding: 15px;
+  height: 300px;
+  justify-content: space-between;
+}
+
+.LoginlinesCon {
+  display: flex;
+  flex-direction: column;
+}
+
+.LoginHeader {
+  padding-bottom: 20px;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: flex-end;
+}

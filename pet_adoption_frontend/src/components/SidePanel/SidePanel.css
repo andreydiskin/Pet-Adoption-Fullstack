@@ -1,0 +1,16 @@
+.drawer .MuiDrawer-paper {
+  width: 300px;
+
+  color: #3e50b5;
+  padding-left: 4%;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #3e50b5;
+}
+
+.MuiTypography-root .navLink {
+  text-decoration: none;
+  color: #3e50b5;
+}

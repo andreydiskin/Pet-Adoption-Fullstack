@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&family=Roboto+Condensed&display=swap");
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  background-image: url("../../images/pet_adoption_pic.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.MuiTypography-root.header {
+  font-family: "Roboto Condensed", sans-serif;
+  margin-bottom: 30px;
+}
+.MuiTypography-root.sub-header {
+  font-family: "Playfair Display", serif;
+  font-size: 22px;
+  color: #f35876;
+}
+
+.homePageCon {
+  text-align: center;
+}

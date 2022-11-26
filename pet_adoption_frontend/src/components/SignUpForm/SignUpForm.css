@@ -1,0 +1,13 @@
+.SignUpformCon {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  height: 500px;
+  width: 550px;
+  justify-content: space-between;
+}
+
+.SignUplinesCon {
+  display: flex;
+  flex-direction: column;
+}

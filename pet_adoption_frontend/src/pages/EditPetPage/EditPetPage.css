@@ -1,0 +1,23 @@
+.MuiCardMedia-root.editPagePetImg {
+  width: 30%;
+  margin: auto;
+  height: 40%;
+  padding: 15px;
+  border-radius: 50px;
+}
+
+.MuiBox-root.editPetFormCon {
+  margin: auto;
+  width: 50%;
+  height: fit-content;
+}
+
+@media only screen and (max-width: 600px) {
+  .MuiCardMedia-root.editPagePetImg {
+    width: 80%;
+  }
+
+  .MuiBox-root.editPetFormCon {
+    width: 100%;
+  }
+}

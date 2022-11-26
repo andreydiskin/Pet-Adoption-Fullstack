@@ -1,0 +1,17 @@
+.petSizeInputs {
+  width: 50%;
+  margin: auto;
+}
+
+.formCon {
+  width: 100%;
+}
+
+.searchBtn {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  min-width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

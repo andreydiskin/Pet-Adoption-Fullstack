@@ -1,0 +1,36 @@
+.MuiButton-root.adpBtn {
+  border-radius: 50px;
+}
+.MuiButton-root.linkSeeMoreBtn a {
+  text-decoration: none;
+}
+
+.searchPageCon .MuiCard-root.petCard {
+  width: 18%;
+}
+
+.MuiCard-root.petCard {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.MuiCardMedia-media.imageCon {
+  object-fit: contain;
+}
+
+@media only screen and (max-width: 1000px) {
+  .searchPageCon .MuiCard-root.petCard {
+    width: 55%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .searchPageCon .MuiCard-root.petCard {
+    width: 100%;
+  }
+  .MuiCard-root.petCard {
+    width: 100%;
+  }
+}

@@ -1,0 +1,9 @@
+.loaderCon {
+  height: 50%;
+  width: 80%;
+  margin: auto;
+  margin-top: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

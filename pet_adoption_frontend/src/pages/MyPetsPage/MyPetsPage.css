@@ -1,0 +1,63 @@
+.myPetsCon.css-j7qwjs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 20%;
+  height: 100%;
+  margin: auto;
+}
+
+.myPetsCon .MuiCard-root.petCard {
+  margin: auto;
+  margin-top: 15px;
+}
+
+.MuiTypography-root.petsHeader {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.MuiTypography-root.noPetsHeader {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.MuiGrid-root.css-mhc70k-MuiGrid-root > .MuiGrid-item {
+  padding-left: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+  .css-nen11g-MuiStack-root.myPetsCon {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .css-nen11g-MuiStack-root.myPetsCon {
+    width: 70%;
+  }
+  .myPetsCon .MuiCard-root.petCard {
+    width: 80%;
+    padding: 0;
+  }
+  .css-jt05dc-MuiGrid-root.myPetsGrid {
+    margin-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .css-nen11g-MuiStack-root.myPetsCon {
+    width: 100%;
+  }
+
+  .myPetsCon .MuiCard-root.petCard {
+    width: 80%;
+    padding: 0;
+  }
+
+  .css-jt05dc-MuiGrid-root.myPetsGrid {
+    margin-top: 10px;
+  }
+}

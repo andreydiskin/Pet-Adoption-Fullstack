@@ -1,0 +1,15 @@
+.formAuthCon {
+  height: 100%;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.tabsCon {
+  background-color: #3e50b5;
+}
+.FormAuthTab {
+  width: 30%;
+}

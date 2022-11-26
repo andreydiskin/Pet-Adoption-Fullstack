@@ -1,0 +1,30 @@
+.MuiInputBase-root.selectField {
+  margin-bottom: 15px;
+}
+
+.MuiTextField-root.commonField {
+  margin-bottom: 15px;
+}
+
+.myFormCon {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  justify-content: space-between;
+  width: 30%;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 3%;
+}
+
+.formSubConBox {
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 1000px) {
+  .myFormCon {
+    width: 70%;
+  }
+}
