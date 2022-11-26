@@ -7,6 +7,7 @@ A fully functional pet-adoption website.
 <br/>
 The website is used for adopting/fostering pets, with save options, basic and advance search options,
 <br/>
+<br/>
 with different access pages for regular users and admins with special pages for managing the users and editing pets.
 <br/>
 There are sign-up,login and edit profile options.
