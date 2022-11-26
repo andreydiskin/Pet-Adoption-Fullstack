@@ -5,8 +5,8 @@ Backend Heroku deployment : https://pet-backend-andrey.herokuapp.com/
 <br/>
 A fully functional pet-adoption website.
 <br/>
-The website is used for adopting/fostering pets, with save options, basic and advance search options,
 <br/>
+The website is used for adopting/fostering pets, with save options, basic and advance search options,
 <br/>
 with different access pages for regular users and admins with special pages for managing the users and editing pets.
 <br/>
